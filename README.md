@@ -1,6 +1,6 @@
 # Circular Mesh Harmony
 
-![Circular Mesh Harmony Animation](animation_preview.gif)
+![Circular Mesh Harmony Animation](/src/assets/img/mesh.png)
 
 ## 🌀 About
 
